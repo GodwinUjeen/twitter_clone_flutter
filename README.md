@@ -1,6 +1,6 @@
-# twitter_clone
+# twitter_clone_flutter
 
-A new Flutter project.
+A Simple Twitter Clone with Flutter and Firebase.
 
 ## Getting Started
 
